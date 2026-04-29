@@ -1,0 +1,6 @@
+tuple = ("Charan","Ako","Abhi","Syam")
+print(tuple)
+print(tuple[0])
+print(tuple[1])
+print(tuple[-1])
+print(tuple[0:4])
